@@ -12,9 +12,9 @@ public class ProductOwner extends ScrumTeamMember implements ScrumKnowledge{
 		System.out.println(name+ "who works in our company as: "+role+ "is our product owner for project: "+projectNum);
 		
 	}
-	public void knowsScrum(){
-		System.out.println("Barely trained");
-	}
+//	public void knowsScrum(){
+//		System.out.println("Barely trained");
+//	}
 
 		
 	
